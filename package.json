@@ -1,0 +1,23 @@
+{
+  "name": "foodie-finder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^0.16.1",
+    "leaflet": "^1.0.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-leaflet": "^1.2.0",
+    "yarn": "^0.24.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
